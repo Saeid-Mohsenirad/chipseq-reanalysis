@@ -1,0 +1,9 @@
+*.bam
+*.sam
+*.vcf
+*.log
+*.fastq
+*.idx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
